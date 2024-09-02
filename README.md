@@ -72,6 +72,19 @@ Você precisará ter as seguintes ferramentas instaladas:
 6. Acesse a aplicação em `http://localhost:3000`.
 
 
+## Layout das pages do Projeto
+
+1. Home
+![Captura de tela 2024-09-02 110750](https://github.com/user-attachments/assets/d9260180-8edb-4f58-97c2-7926e4bf6010)
+
+2. Cadastro de veículo
+![Captura de tela 2024-09-02 110813](https://github.com/user-attachments/assets/96c8f329-fc81-42b2-9cfe-84f50711e95d)
+
+3. Inventário de veículos cadastrados
+![Captura de tela 2024-09-02 110831](https://github.com/user-attachments/assets/96d6e8d3-2ed2-45a5-9d9e-e696f6600746)
+
+
+
 ## 📁 Estrutura do Projeto
 
 ```plaintext
