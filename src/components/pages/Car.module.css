@@ -1,0 +1,54 @@
+.car_details{
+    padding: 2em;
+    width: 500px;
+}
+.car_details h1,
+.car_details h2,
+.car_details p{
+    margin-bottom: 0.5em;
+}
+.car_details span{
+    font-weight: bold;
+    margin-right: 0.5em;
+}
+
+.details_container,
+.service_form_container {
+    display: flex;
+    justify-content: space-between;
+}
+.btnLink {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    margin-top: 2em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 10px;
+    cursor: pointer;
+    border-color: #007BFF;
+}
+
+.btnLink:hover {
+    color: #333333
+}
+
+.car_link{
+margin-left: 100px
+}
+
+.car_link a{
+    text-decoration: none;
+    border: none;
+    background-color: #fff;
+    color: #424242;
+    font-size: .9em;
+    padding: .6em 1em;
+    cursor: pointer;
+    transition: 0.5s;
+    height: 10px;
+}
+
+.car_link a:hover{
+    color: red;
+}

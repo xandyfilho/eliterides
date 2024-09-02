@@ -1,0 +1,21 @@
+.btnLink {
+    background-color: #007BFF;
+    border-color: #007BFF;
+    color: #FFFFFF;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+    width: 200px;    
+    box-shadow: #007BFF;
+    display: inline-block;
+    box-shadow: 0 3px 7px 0 rgba(0, 0, 0, .13), 0 1px 2px 0 rgba(0, 0, 0, .11);
+    transition: 0.3s
+}
+
+.btnLink:hover {
+    color: #333333;
+    box-shadow: 0 3px 7px 0 rgba(0, 0, 0, .13), 0 1px 2px 0 rgba(0, 0, 0, .11);
+}

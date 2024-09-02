@@ -1,0 +1,297 @@
+{
+  "cars": [
+    {
+      "id": "4fba",
+      "brand": "Tcross",
+      "year": "2010",
+      "color": {
+        "id": "6",
+        "name": "Blue"
+      }
+    },
+    {
+      "id": "32b8",
+      "brand": "Fox",
+      "year": "2019",
+      "color": {
+        "id": "14",
+        "name": "Purple"
+      }
+    },
+    {
+      "id": "4a3c",
+      "brand": "Uno",
+      "year": "2020",
+      "color": {
+        "id": "12",
+        "name": "Orange"
+      }
+    },
+    {
+      "id": "8438",
+      "brand": "Tcross",
+      "year": "2009",
+      "color": {
+        "id": "8",
+        "name": "Yellow"
+      }
+    },
+    {
+      "id": "eca1",
+      "brand": "Tcross",
+      "year": "2023",
+      "color": {
+        "id": "13",
+        "name": "Pink"
+      }
+    },
+    {
+      "id": "9a8f",
+      "brand": "Fox",
+      "year": "2020",
+      "color": {
+        "id": "10",
+        "name": "Beige"
+      }
+    },
+    {
+      "id": "c97f",
+      "brand": "Tcross",
+      "year": "2004",
+      "color": {
+        "id": "10",
+        "name": "Beige"
+      }
+    },
+    {
+      "id": "2b19",
+      "brand": "Gol",
+      "year": "2021",
+      "color": {
+        "id": "1",
+        "name": "Black"
+      }
+    },
+    {
+      "id": "4c7a",
+      "brand": "Civic",
+      "year": "2018",
+      "color": {
+        "id": "2",
+        "name": "White"
+      }
+    },
+    {
+      "id": "39d3",
+      "brand": "Corolla",
+      "year": "2015",
+      "color": {
+        "id": "4",
+        "name": "Gray"
+      }
+    },
+    {
+      "id": "56e2",
+      "brand": "Hilux",
+      "year": "2022",
+      "color": {
+        "id": "5",
+        "name": "Red"
+      }
+    },
+    {
+      "id": "7b45",
+      "brand": "Ka",
+      "year": "2013",
+      "color": {
+        "id": "7",
+        "name": "Green"
+      }
+    },
+    {
+      "id": "8d1a",
+      "brand": "Fiesta",
+      "year": "2017",
+      "color": {
+        "id": "9",
+        "name": "Brown"
+      }
+    },
+    {
+      "id": "e91b",
+      "brand": "Onix",
+      "year": "2016",
+      "color": {
+        "id": "12",
+        "name": "Orange"
+      }
+    },
+    {
+      "id": "f63c",
+      "brand": "EcoSport",
+      "year": "2020",
+      "color": {
+        "id": "13",
+        "name": "Pink"
+      }
+    },
+    {
+      "id": "2d5a",
+      "brand": "Polo",
+      "year": "2021",
+      "color": {
+        "id": "1",
+        "name": "Black"
+      }
+    },
+    {
+      "id": "4e6b",
+      "brand": "Jetta",
+      "year": "2019",
+      "color": {
+        "id": "6",
+        "name": "Blue"
+      }
+    },
+    {
+      "id": "93c2",
+      "brand": "Voyage",
+      "year": "2014",
+      "color": {
+        "id": "2",
+        "name": "White"
+      }
+    },
+    {
+      "id": "16f3",
+      "brand": "Sandero",
+      "year": "2017",
+      "color": {
+        "id": "4",
+        "name": "Gray"
+      }
+    },
+    {
+      "id": "7g82",
+      "brand": "Tucson",
+      "year": "2023",
+      "color": {
+        "id": "5",
+        "name": "Red"
+      }
+    },
+    {
+      "id": "8k43",
+      "brand": "Duster",
+      "year": "2014",
+      "color": {
+        "id": "9",
+        "name": "Brown"
+      }
+    },
+    {
+      "id": "4h1c",
+      "brand": "Ranger",
+      "year": "2020",
+      "color": {
+        "id": "9",
+        "name": "Brown"
+      }
+    },
+    {
+      "id": "2m5d",
+      "brand": "Cruze",
+      "year": "2015",
+      "color": {
+        "id": "8",
+        "name": "Yellow"
+      }
+    },
+    {
+      "id": "5r9b",
+      "brand": "Kwid",
+      "year": "2018",
+      "color": {
+        "id": "14",
+        "name": "Purple"
+      }
+    },
+    {
+      "id": "7s8t",
+      "brand": "Fit",
+      "year": "2022",
+      "color": {
+        "id": "13",
+        "name": "Pink"
+      }
+    },
+    {
+      "id": "eb33",
+      "brand": "Tracker",
+      "year": "2020",
+      "color": {
+        "id": "12",
+        "name": "Orange"
+      }
+    },
+    {
+      "id": "bcc1",
+      "brand": "Focus",
+      "year": "2018",
+      "color": {
+        "id": "4",
+        "name": "Gray"
+      }
+    }
+  ],
+  "color": [
+    {
+      "id": "1",
+      "name": "Black"
+    },
+    {
+      "id": "2",
+      "name": "White"
+    },
+    {
+      "id": "4",
+      "name": "Gray"
+    },
+    {
+      "id": "5",
+      "name": "Red"
+    },
+    {
+      "id": "6",
+      "name": "Blue"
+    },
+    {
+      "id": "7",
+      "name": "Green"
+    },
+    {
+      "id": "8",
+      "name": "Yellow"
+    },
+    {
+      "id": "9",
+      "name": "Brown"
+    },
+    {
+      "id": "10",
+      "name": "Beige"
+    },
+    {
+      "id": "12",
+      "name": "Orange"
+    },
+    {
+      "id": "13",
+      "name": "Pink"
+    },
+    {
+      "id": "14",
+      "name": "Purple"
+    }
+  ]
+}

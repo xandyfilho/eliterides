@@ -1,0 +1,23 @@
+.submit_control{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.btnSubmit{
+    background-color: #007BFF;
+    color: #FFFFFF;
+    margin-top: 2em;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.5s;
+    border-radius: 10px;
+    text-align: center;
+    width: 100px;
+    border-color: #007BFF;
+}
+
+.btnSubmit:hover{
+    color: #333333
+}
+
