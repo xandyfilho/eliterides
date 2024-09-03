@@ -1,8 +1,19 @@
 .car_details{
-    padding: 2em;
-    width: 500px;
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    height: 100%;
+    align-items: center;
+    margin-bottom: 30px;
 }
-.car_details h1,
+.title_car_details{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    color: #007BFF;
+    padding: 10px 50px 20px 50px;
+}
+
 .car_details h2,
 .car_details p{
     margin-bottom: 0.5em;

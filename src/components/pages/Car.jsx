@@ -69,7 +69,9 @@ function Car() {
         <>
             {car ? (  // Verifica se o carro foi carregado
                 <div className={styles.car_details}>
-                    
+                    <div className={styles.title_car_details}>
+                        <h1>Edit car</h1>
+                    </div>
                     <Container customClass="column">
                     {message && <Message type={type} msg={message} />}
                         <div className='styles.details.container'>

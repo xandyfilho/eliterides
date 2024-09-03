@@ -1,8 +1,12 @@
 .footer{
+    display: flex;
     background-color: #424242;
+    flex-direction: column;
     color:#FFFFFF;
-    padding: 3em;
     text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 15%;
 }
 
 .social_list {
@@ -27,7 +31,7 @@
 }
 
 .copy_right {
-    margin-top:2em;
+    margin-top:2px;
 }
 
 .copy_right span{

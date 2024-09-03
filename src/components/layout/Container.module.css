@@ -7,8 +7,10 @@
 }
 
 .min-height{
-    min-height: 75%;
-    align-items: center;
+    min-height: 70%;
+    width: 100%;
+    display: flex;
+    align-items:flex-start;
 }
 .start {
     justify-content: flex-start;
@@ -21,7 +23,7 @@
     border: none;
     box-shadow: 0 3px 7px 0 rgba(0, 0, 0, .13), 0 1px 2px 0 rgba(0, 0, 0, .11);    
     border-radius: 10px;
-    width: 100%;
+    width: 40%;
     margin: 0.5%
 
 }
